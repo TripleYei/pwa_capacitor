@@ -18,3 +18,8 @@ localhost:3000
 
 ## Resultado 
 
+<img src="IMG/capacitor-desktop.PNG">
+<img src="IMG/pwa.png">
+<img src="IMG/pwa-instalada.png">
+
+
