@@ -20,6 +20,6 @@ localhost:3000
 
 <img src="IMG/capacitor-desktop.PNG">
 <img src="IMG/pwa.png">
-<img src="IMG/pwa-instalada.png">
+<img src="IMG/pwa-instalada.PNG">
 
 
